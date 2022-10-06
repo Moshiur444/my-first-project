@@ -1,3 +1,8 @@
 h1{
     border: 2px solid blue;
 }
+.logo{
+    background-color: brown;
+    font-size: 25px;
+    text-align: center;
+}
